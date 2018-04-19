@@ -1,0 +1,7 @@
+r4.2xlarge
+r4.large
+c4.xlarge
+c4.2xlarge
+c4.8xlarge
+c4.4xlarge
+m4.xlarge
