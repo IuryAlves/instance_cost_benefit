@@ -1,4 +1,4 @@
-INSTANCE_TYPE,MEMORY,COST
+instance_type,memory,cost
 m1.xlarge,15,0.35
 c4.xlarge,7.5,0.6
 r4.large,30,0.8
